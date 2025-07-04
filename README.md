@@ -1,8 +1,8 @@
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=I'm+Manal+Ali;Software+Engineer;Frontend+Developer;Fullstack+Developer;Backend+.NET+Developer;Passionate+about+Clean+Architecture;Always+Learning+New+Techs!🚀" alt="Typing SVG" />
-</p>
+</h1>
 
 
 ---
