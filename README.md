@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=I'm+Manal+Ali;Software+Engineer;Frontend+Developer;Fullstack+Developer;Backend+.NET+Developer;Passionate+about+Clean+Architecture;Always+Learning+New+Techs!🚀" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=I'm+Manal+Ali;Software+Engineer;Frontend+Developer;Fullstack+Developer;Backend+.NET+Developer;Passionate+about+Clean+Architecture;Always+Learning+New+Techs!🚀](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=I'm+Manal+Ali;Software+Engineer;Frontend+Developer;Fullstack+Developer;Backend+.NET+Developer;Passionate+about+Clean+Architecture;Always+Learning+New+Techs!%F0%9F%9A%80)" alt="Typing SVG" />
 </p>
 
 <p align="center">
