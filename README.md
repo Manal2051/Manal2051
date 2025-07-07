@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Manal Ali</h1>
+<h1 align="center">I'm Manal Ali Sayed</h1>
 
 <h1 align="center">Software Engineer | .NET Developer | Full Stack</h1>
 <p align="center">
