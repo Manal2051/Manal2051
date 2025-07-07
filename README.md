@@ -1,7 +1,9 @@
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
+<h1 align="center">I'm Manal Ali</h1>
 
+<h1 align="center">Software Engineer | .NET Developer | Full Stack</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=100&color=000000&center=true&vCenter=true&width=700&lines=I'm+Manal+Ali+Sayed+👋;I'm+a+Software+Engineer+👋;I'm+a+Fullstack+Developer+👋;I'm+a+Backend+.NET+Developer+👋;Passionate+About+Clean+Architecture+👋;Always+Learning+New+Techs!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=100&color=000000&center=true&vCenter=true&width=700&lines=Passionate+About+Clean+Architecture+👋;Always+Learning+New+Techs!🚀;" alt="Typing SVG" />
 </p>
 
 
