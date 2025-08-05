@@ -3,7 +3,7 @@
 
 <h1 align="center">Software Engineer | Full Stack Developer | .NET Developer  </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=100&color=000fff&center=true&vCenter=true&width=700&lines=Passionate+About+Clean+Architecture+👋;Always+Learning+New+Techs!🚀;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=100&color=000fff&center=true&vCenter=true&width=700&lines=Passionate+About+Clean+Architecture+👋;" alt="Typing SVG" />
 </p>
 
 
